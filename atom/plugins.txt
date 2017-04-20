@@ -1,0 +1,15 @@
+asciidoctor-preview
+atom-beautify
+atom-ternjs
+docblockr
+editorconfig
+emmet
+ex-mode
+file-icons
+hyper-ui
+linter
+linter-jscs
+linter-jshint
+platformio-ide-terminal
+sexy-dark-theme
+vim-mode-plus

@@ -1,0 +1,39 @@
+#!/bin/bash
+
+  #ALIAS#
+  alias ls='ls -GFh'
+  alias ll='ls -la'
+  alias l.='ls -Gld .*'
+  alias ld='ls -ld -- *'
+  #script to upgrade all casks installed through brew
+  alias count="ls -1 | wc -l"
+  alias chrome="open -a 'Google Chrome'"
+  alias intellij="open -a 'Intellij Idea'"
+  alias vscode="open -a 'Visual Studio Code'"
+  alias ..="cd .."
+  #create all folders as needed ex: mkdir temp/tmep/temp
+  alias mkdir="mkdir -pv"
+####################################
+##
+  #pretty grep
+  alias grep='grep --color=auto'
+  alias egrep='egrep --color=auto'
+  alias fgrep='fgrep --color=auto'
+####################################
+##
+  #Safety Nets
+  alias mv="mv -i"
+  alias cp="cp -i"
+  alias ln="ln -i"
+  alias rm="rm -i"
+####################################
+##
+  #Typos
+  alias vi="vim"
+  alias vmi="vim"
+  alias sl="ls"
+  alias pdw="pwd"
+####################################
+##
+  #chmod
+  alias ax="chmod a+x"

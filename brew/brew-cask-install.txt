@@ -1,0 +1,17 @@
+atom
+box-sync
+firefox
+google-chrome
+intellij-idea
+iterm2
+java
+kodi
+postico
+postman
+scenebuilder
+skype
+slack
+spotify
+sqlitebrowser
+visual-studio-code
+wireshark
